@@ -43,3 +43,7 @@
 - Lancaster University [pdf](http://gpss.cc/gpmc17/slides/LancasterMasterclass_1.pdf)
 - towarddatascience [link](https://towardsdatascience.com/the-intuitions-behind-bayesian-optimization-with-gaussian-processes-7e00fcc898a0)
 - 논문
+
+### kaggle kernel
+- [link](https://www.kaggle.com/toastls93/bayes-optimization-xgb)
+- [link](https://www.kaggle.com/huntermcgushion/bayesian-hyperparameter-optimization-and-xgboost)
